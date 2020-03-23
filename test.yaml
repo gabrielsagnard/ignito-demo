@@ -1,7 +1,7 @@
 apiVersion: ignite.weave.works/v1alpha1
 kind: VM
 metadata:
-  name: ubuntu-vm
+  name: test
   uid: 05286f8fb73dc324
 spec:
   cpus: 1
