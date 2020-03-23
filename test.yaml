@@ -4,7 +4,7 @@ metadata:
   name: ubuntu-vm
   uid: 05286f8fb73dc324
 spec:
-  cpus: 2
+  cpus: 1
   diskSize: 4GB
   memory: 1GB
   image:
